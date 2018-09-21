@@ -7,39 +7,39 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jeffrey L Sternberg"
+title                    : "Alexandra M. Alden"
 title_separator          : "-"
-name                     : &name "Jeffrey L Sternberg"
+name                     : &name "Alexandra M. Alden"
 description              : &description "My Academic Website"
-url                      : https://jeffreysternberg530.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://alexalden.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jeffreysternberg530/jeffreysternberg530.github.io"
+repository               : "alexalden/jeffreysternberg530.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 
 
 # Site Author
 author:
-  name             : "Jeffrey L Sternberg"
+  name             : "Alexandra M. Alden"
   avatar           : "images/IMG_0678.JPG"
   bio              : "PhD Student in Sociology at Northeastern University"
   location         : "Boston, MA"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "sternberg.je@husky.neu.edu"
+  email            : "alden.a@husky.neu.edu"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "jeff.sternberg"
+  facebook         : 
   foursquare       :
-  github           : "jeffreysternberg530"
+  github           : "alexalden"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         :"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
