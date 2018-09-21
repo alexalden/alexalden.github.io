@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jeffrey L. Sternberg"
+title: "Alexandra M. Alden"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
