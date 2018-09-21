@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jeff Sternberg and I am a 3rd Year PhD Student in Sociology at Northeastern University.
+I received my bachelor’s degree in sociology with a minor in psychology from the University of Massachusetts Amherst. In the fall of 2015, I entered Northeastern University as a sociology doctorate student. For my research assistantship, I work for the Institute for Health Equity and Social Justice Research (IHESJR) on literacy interventions for mental health service users and evaluation projects. 
 
-I am 26 years old and originally from Plymouth, MI, about half-way between Detroit and Ann Arbor.
-
-My research looks at the way individuals live through global economic restructuring, centered around the intersection of the precariat, global cities, mobility, and post-industrial class formation. I am specifically looking at how the urban nomad section of the precariat adapt themselves to the post-industrial organization of labor, keeping themselves geographically mobile to pivot to every new economic opportunity.
+Areas of Research/Interest: Mental health services, political-economy, critical race theory, mixed methods
 
 
 
