@@ -38,14 +38,14 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :"
+  linkedin         : "alexandra alden"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "JeffSternberg"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -54,7 +54,7 @@ author:
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
